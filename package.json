@@ -1,0 +1,20 @@
+{
+  "name": "justserver",
+  "version": "1.2.1",
+  "description": "this will start server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvpuneet/ctest.git"
+  },
+  "author": "puneet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvpuneet/ctest/issues"
+  },
+  "homepage": "https://github.com/bvpuneet/ctest#readme"
+}
